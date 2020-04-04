@@ -1,2 +1,2 @@
 # hello-world
-General dumping ground 
+General dumping ground for any ideas and information that might be useful.
